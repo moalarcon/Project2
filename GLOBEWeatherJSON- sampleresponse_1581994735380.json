@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "name": "GLOBE-data",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "airtempdailiesComments": "air temp subday rollup",
+        "airtempdailiesCurrentTemp": "28.1",
+        "airtempdailiesMaximumTemp": "32.4",
+        "airtempdailiesMeasuredAt": "2018-09-01T12:15:00",
+        "airtempdailiesMinimumTemp": "14.5",
+        "airtempdailiesSolarMeasuredAt": "2018-09-01T11:58:00",
+        "airtempdailiesSolarNoonAt": "2018-09-01T12:16:00",
+        "airtempdailiesUserid": "0",
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "protocol": "air_temp_dailies",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "precipitationsComments": "precipitation rain sub day rollup",
+        "precipitationsDaysAccumulated": "1",
+        "precipitationsLiquidAccumulation": "0",
+        "precipitationsLiquidAccumulationFlag": "null",
+        "precipitationsMeasuredAt": "2018-09-01T12:16:00",
+        "precipitationsOccurrenceType": "no occurrence",
+        "precipitationsPh": "null",
+        "precipitationsPhMethod": "null",
+        "precipitationsSnowfallAccumulation": "0",
+        "precipitationsSnowfallAccumulationFlag": "null",
+        "precipitationsSolarMeasuredAt": "2018-09-01T11:59:00",
+        "precipitationsSolarNoonAt": "2018-09-01T12:16:00",
+        "precipitationsUserid": "2899953",
+        "precipitationsVisRainDepth": "0",
+        "precipitationsVisSnowDepth": "0",
+        "precipitationsVisTotalLiquidEquivalent": "0",
+        "protocol": "precipitations",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "humiditynoonsComments": "(Phase 4 Email Data Entry)",
+        "humiditynoonsDewpoint": "19.8",
+        "humiditynoonsHumidityMethod": "digital hygrometer",
+        "humiditynoonsMeasuredAt": "2018-09-01T12:15:00",
+        "humiditynoonsRelativeHumidityPercent": "60",
+        "humiditynoonsSolarMeasuredAt": "2018-09-01T11:58:00",
+        "humiditynoonsSolarNoonAt": "2018-09-01T12:16:00",
+        "humiditynoonsUserid": "2899953",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "protocol": "humidity_noons",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "humiditynoonsComments": "(Phase 4 Email Data Entry)",
+        "humiditynoonsDewpoint": "19.7",
+        "humiditynoonsHumidityMethod": "digital hygrometer",
+        "humiditynoonsMeasuredAt": "2018-09-02T12:15:00",
+        "humiditynoonsRelativeHumidityPercent": "60",
+        "humiditynoonsSolarMeasuredAt": "2018-09-02T11:59:00",
+        "humiditynoonsSolarNoonAt": "2018-09-02T12:15:00",
+        "humiditynoonsUserid": "2899953",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "protocol": "humidity_noons",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "airtempdailiesComments": "air temp subday rollup",
+        "airtempdailiesCurrentTemp": "28",
+        "airtempdailiesMaximumTemp": "31.2",
+        "airtempdailiesMeasuredAt": "2018-09-02T12:15:00",
+        "airtempdailiesMinimumTemp": "16.3",
+        "airtempdailiesSolarMeasuredAt": "2018-09-02T11:59:00",
+        "airtempdailiesSolarNoonAt": "2018-09-02T12:15:00",
+        "airtempdailiesUserid": "0",
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "protocol": "air_temp_dailies",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "precipitationsComments": "precipitation rain sub day rollup",
+        "precipitationsDaysAccumulated": "1",
+        "precipitationsLiquidAccumulation": "0",
+        "precipitationsLiquidAccumulationFlag": "null",
+        "precipitationsMeasuredAt": "2018-09-02T12:15:00",
+        "precipitationsOccurrenceType": "no occurrence",
+        "precipitationsPh": "null",
+        "precipitationsPhMethod": "null",
+        "precipitationsSnowfallAccumulation": "0",
+        "precipitationsSnowfallAccumulationFlag": "null",
+        "precipitationsSolarMeasuredAt": "2018-09-02T11:59:00",
+        "precipitationsSolarNoonAt": "2018-09-02T12:15:00",
+        "precipitationsUserid": "2899953",
+        "precipitationsVisRainDepth": "0",
+        "precipitationsVisSnowDepth": "0",
+        "precipitationsVisTotalLiquidEquivalent": "0",
+        "protocol": "precipitations",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "airtempdailiesComments": "air temp subday rollup",
+        "airtempdailiesCurrentTemp": "26.5",
+        "airtempdailiesMaximumTemp": "31.9",
+        "airtempdailiesMeasuredAt": "2018-09-03T12:15:00",
+        "airtempdailiesMinimumTemp": "16",
+        "airtempdailiesSolarMeasuredAt": "2018-09-03T11:59:00",
+        "airtempdailiesSolarNoonAt": "2018-09-03T12:15:00",
+        "airtempdailiesUserid": "0",
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "protocol": "air_temp_dailies",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "humiditynoonsComments": "(Phase 4 Email Data Entry)",
+        "humiditynoonsDewpoint": "19",
+        "humiditynoonsHumidityMethod": "digital hygrometer",
+        "humiditynoonsMeasuredAt": "2018-09-03T12:15:00",
+        "humiditynoonsRelativeHumidityPercent": "63",
+        "humiditynoonsSolarMeasuredAt": "2018-09-03T11:59:00",
+        "humiditynoonsSolarNoonAt": "2018-09-03T12:15:00",
+        "humiditynoonsUserid": "2899953",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "protocol": "humidity_noons",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "precipitationsComments": "precipitation rain sub day rollup",
+        "precipitationsDaysAccumulated": "1",
+        "precipitationsLiquidAccumulation": "0.25",
+        "precipitationsLiquidAccumulationFlag": "null",
+        "precipitationsMeasuredAt": "2018-09-03T12:15:00",
+        "precipitationsOccurrenceType": "rain",
+        "precipitationsPh": "null",
+        "precipitationsPhMethod": "null",
+        "precipitationsSnowfallAccumulation": "null",
+        "precipitationsSnowfallAccumulationFlag": "null",
+        "precipitationsSolarMeasuredAt": "2018-09-03T11:59:00",
+        "precipitationsSolarNoonAt": "2018-09-03T12:15:00",
+        "precipitationsUserid": "2899953",
+        "precipitationsVisRainDepth": "0.25",
+        "precipitationsVisSnowDepth": "null",
+        "precipitationsVisTotalLiquidEquivalent": "0.25",
+        "protocol": "precipitations",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "countryCode": "ESP",
+        "countryName": "Spain",
+        "elevation": "725.4",
+        "humiditynoonsComments": "(Phase 4 Email Data Entry)",
+        "humiditynoonsDewpoint": "17.9",
+        "humiditynoonsHumidityMethod": "digital hygrometer",
+        "humiditynoonsMeasuredAt": "2018-09-04T12:15:00",
+        "humiditynoonsRelativeHumidityPercent": "68",
+        "humiditynoonsSolarMeasuredAt": "2018-09-04T12:00:00",
+        "humiditynoonsSolarNoonAt": "2018-09-04T12:15:00",
+        "humiditynoonsUserid": "2899953",
+        "organizationId": "organizationId",
+        "organizationName": "IES Cañada Real",
+        "protocol": "humidity_noons",
+        "siteId": "siteId",
+        "siteName": "IES CAÑADA REAL:ATM-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0085,
+          40.5836
+        ]
+      }
+    }
+  ],
+  "message": null
+}
